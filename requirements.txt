@@ -1,0 +1,14 @@
+docling
+qdrant-client
+FlagEmbedding
+sentence-transformers
+langchain-text-splitters
+python-dotenv
+groq
+transformers
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+easyocr
